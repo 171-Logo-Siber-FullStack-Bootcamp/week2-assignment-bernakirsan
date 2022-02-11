@@ -1,0 +1,26 @@
+{
+  "name": "week2-assignment-bernakirsan",
+  "version": "1.0.0",
+  "description": "[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6934012&assignment_repo_type=AssignmentRepo)\r # week2-assignment\r Derste yapılan yapı tekrar kurgulanacak.",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/171-Logo-Siber-FullStack-Bootcamp/week2-assignment-bernakirsan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/171-Logo-Siber-FullStack-Bootcamp/week2-assignment-bernakirsan/issues"
+  },
+  "homepage": "https://github.com/171-Logo-Siber-FullStack-Bootcamp/week2-assignment-bernakirsan#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
